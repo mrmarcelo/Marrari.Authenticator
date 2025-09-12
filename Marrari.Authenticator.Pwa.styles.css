@@ -11,20 +11,29 @@
     font-family: ui-monospace,SFMono-Regular,Menlo,monospace;
     font-weight: 600;
     letter-spacing: .1rem;
-    font-size: 32px
+    font-size: 32px;
+    /* Make metrics match the preview */
+    padding: 10px;
+    line-height: 1;
+    box-sizing: border-box;
 }
 
 .hex-preview[b-o8idzzxs68] {
     position: absolute;
     inset: 0;
     padding: 10px;
+    margin-left: 1px;
+    margin-top: 3px;
     display: block;
     white-space: pre;
     font-family: ui-monospace,SFMono-Regular,Menlo,monospace;
     font-weight: 600;
     letter-spacing: .1rem;
     pointer-events: none;
-    font-size: 32px
+    font-size: 32px;
+    /* Match input metrics */
+    line-height: 1;
+    box-sizing: border-box;
 }
 
     .hex-preview .digit[b-o8idzzxs68] {
