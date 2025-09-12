@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "CvhMSEmC",
+  "version": "OEAIKBCr",
   "assets": [
     {
       "hash": "sha256-57cQSc3I1fzQUG7qz7wqJruhChjhaWNDnvuSvlMvJ5w=",
@@ -10,8 +10,8 @@ self.assetsManifest = {
       "url": "Marrari.Authenticator.Pwa.styles.css"
     },
     {
-      "hash": "sha256-OfnElhQIrggpEzbfVsepJOV0FQTJOyhzj779pf67YKo=",
-      "url": "_framework/Marrari.Authenticator.Pwa.989yipsek1.wasm"
+      "hash": "sha256-uqertHmjkz1qXdfv/areyPNW08CFOJqpvAyOYyxVpS4=",
+      "url": "_framework/Marrari.Authenticator.Pwa.u3begqg37w.wasm"
     },
     {
       "hash": "sha256-PzptD12cTt27EJudrYlLv6PC4s3W4AqrJ7cEmO06I90=",
@@ -150,7 +150,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.3ddyst6dmo.wasm"
     },
     {
-      "hash": "sha256-fd0dr34qwjhVvRazOwkM2AP9kEhtMScl+DfH7tLpZJ0=",
+      "hash": "sha256-W8qzEfvQT2W7TYHnUmsHv5GDdEMufTThGtkZtoMGYEY=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -198,7 +198,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-57cQSc3I1fzQUG7qz7wqJruhChjhaWNDnvuSvlMvJ5w=",
+      "hash": "sha256-DA7oaMKUNaC6Ijnn3JFiu75PspQXVFISNHns/N+bdLw=",
       "url": "index.html"
     },
     {

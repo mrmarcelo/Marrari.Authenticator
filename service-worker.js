@@ -1,4 +1,4 @@
-/* Manifest version: CvhMSEmC */
+/* Manifest version: OEAIKBCr */
 // Prod SW � cache-first for assets, network-first for API
 self.addEventListener('install', event => {
     event.waitUntil(caches.open('app-cache-v1').then(cache => cache.addAll(['./', 'index.html'])));
