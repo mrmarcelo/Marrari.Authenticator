@@ -1,0 +1,36 @@
+/* /Components/HexColorText.razor.rz.scp.css */
+.hex-input-wrap[b-o8idzzxs68] {
+    position: relative
+}
+
+.hex-input[b-o8idzzxs68] {
+    width: 100%;
+    background: transparent;
+    color: transparent;
+    caret-color: #eee;
+    font-family: ui-monospace,SFMono-Regular,Menlo,monospace;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    font-size: 32px
+}
+
+.hex-preview[b-o8idzzxs68] {
+    position: absolute;
+    inset: 0;
+    padding: 10px;
+    display: block;
+    white-space: pre;
+    font-family: ui-monospace,SFMono-Regular,Menlo,monospace;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    pointer-events: none;
+    font-size: 32px
+}
+
+    .hex-preview .digit[b-o8idzzxs68] {
+        color: #6cf
+    }
+
+    .hex-preview .letter[b-o8idzzxs68] {
+        color: #fc6
+    }
