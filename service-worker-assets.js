@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Jmocs+72",
+  "version": "qkDpxWc2",
   "assets": [
     {
       "hash": "sha256-57cQSc3I1fzQUG7qz7wqJruhChjhaWNDnvuSvlMvJ5w=",
@@ -198,7 +198,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-S3K1EjLXOLijVFSodf1YEFYBMUPUrCssn4uWpiTtBlQ=",
+      "hash": "sha256-57cQSc3I1fzQUG7qz7wqJruhChjhaWNDnvuSvlMvJ5w=",
       "url": "index.html"
     },
     {
@@ -206,7 +206,7 @@ self.assetsManifest = {
       "url": "js/cryptoInterop.js"
     },
     {
-      "hash": "sha256-/B4kXrKF9kpI2kf4T6wPvsdESI2yA24XMWSqEXevkSs=",
+      "hash": "sha256-HUvrI3NwsS9V/w8arlnNvfxedtWV2CTXUKI6uHSrrW8=",
       "url": "manifest.webmanifest"
     },
     {

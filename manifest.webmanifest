@@ -1,7 +1,8 @@
 {
   "name": "Marrari.Authenticator.Pwa",
   "short_name": "Marrari Authenticator",
-  "start_url": "https://mrmarcelo.github.io/Marrari.Authenticator/",
+  "start_url": "/Marrari.Authenticator/",
+  "scope": "/Marrari.Authenticator/",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
