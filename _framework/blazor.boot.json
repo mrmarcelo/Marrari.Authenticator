@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Marrari.Authenticator.Pwa",
   "resources": {
-    "hash": "sha256-4wSbMTsW2/Tt5u7un57HCmGoqZJ5Qvut3MTxS26Tn9Y=",
+    "hash": "sha256-mjwmgfAZ4c3N01Ex1+EDyyI4pdZmWCVUGrGwj2bQ0sA=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.qs4vhyizb6.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.hswfy0pmu8.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -37,7 +37,7 @@
       "System.Text.Json.c189p5ree8.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.3ddyst6dmo.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.o25vmsb2ip.wasm": "System.Private.CoreLib.wasm",
-      "Marrari.Authenticator.Pwa.ykutawbn3z.wasm": "Marrari.Authenticator.Pwa.wasm",
+      "Marrari.Authenticator.Pwa.9hfp4jf5ef.wasm": "Marrari.Authenticator.Pwa.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.9ih887ebfz.js": "dotnet.native.js",
       "dotnet.native.21mns4qp4i.wasm": "dotnet.native.wasm",
@@ -97,7 +97,7 @@
       "System.Text.Encodings.Web.08ymq1fvcr.wasm": "sha256-QPumUm/+bRPi/T+QpPMfrlCeezAnzRk6CmD/iBskgiw=",
       "System.Text.Json.c189p5ree8.wasm": "sha256-EFJHoNty60SGh5DOmHJRyvuorRF3fN9GBe+VItNW/2U=",
       "System.Text.RegularExpressions.3ddyst6dmo.wasm": "sha256-J0h0LpWzXEYF0E+lUOiWbLF6UobUv3nu0XKBs3nMIoQ=",
-      "Marrari.Authenticator.Pwa.ykutawbn3z.wasm": "sha256-7oWJt83oOc6y1Rhho1lDRlrnmMTYUCOe+Kd/wqUCpqk="
+      "Marrari.Authenticator.Pwa.9hfp4jf5ef.wasm": "sha256-nfpF4rFZYuMSxsAsTW2I4y0IaSPW4TVRWadqLFNX+C4="
     }
   },
   "cacheBootResources": true,
