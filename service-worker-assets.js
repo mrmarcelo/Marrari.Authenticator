@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "VDQWmA0e",
+  "version": "ZAN3rbA6",
   "assets": [
     {
       "hash": "sha256-57cQSc3I1fzQUG7qz7wqJruhChjhaWNDnvuSvlMvJ5w=",
@@ -10,8 +10,8 @@ self.assetsManifest = {
       "url": "Marrari.Authenticator.Pwa.styles.css"
     },
     {
-      "hash": "sha256-nfpF4rFZYuMSxsAsTW2I4y0IaSPW4TVRWadqLFNX+C4=",
-      "url": "_framework/Marrari.Authenticator.Pwa.9hfp4jf5ef.wasm"
+      "hash": "sha256-/Fz2v47Ww5r3jM0RkOxErb8tFN+SX3f9OXGdmpmrA3Y=",
+      "url": "_framework/Marrari.Authenticator.Pwa.8v6tja8o9b.wasm"
     },
     {
       "hash": "sha256-PzptD12cTt27EJudrYlLv6PC4s3W4AqrJ7cEmO06I90=",
@@ -118,20 +118,20 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Primitives.yjcmep7m7h.wasm"
     },
     {
-      "hash": "sha256-cCGMxygPuvYf6wvBFJan+rN2Kt0FpD5Uxofeeacb0ck=",
-      "url": "_framework/System.Private.CoreLib.o25vmsb2ip.wasm"
+      "hash": "sha256-FvOkEgCeM0f8lFxBDTHiy/Pf6/CmlQsGpkZTDqjAWjE=",
+      "url": "_framework/System.Private.CoreLib.i68ad25sz9.wasm"
     },
     {
       "hash": "sha256-z5RWeE/dZPsJMZvEKrf7l58tMRwDLNVjojX4XAj3Jns=",
       "url": "_framework/System.Private.Uri.f4flpvska4.wasm"
     },
     {
-      "hash": "sha256-5X6FWiZE4NSx4s9iNjfVim2lWQpcbVIsorx1vB6lyno=",
-      "url": "_framework/System.Runtime.InteropServices.JavaScript.f7txb1es0b.wasm"
+      "hash": "sha256-STwQoDWvnXwKDY8WvUzbj8dG1Wn0ayf1UF0yREzkKzA=",
+      "url": "_framework/System.Runtime.9w4mmd5kaw.wasm"
     },
     {
-      "hash": "sha256-ol+K6UI/EGufqHPF5aPeOrKisbTMTpgV1lZglDMoryA=",
-      "url": "_framework/System.Runtime.u86vne8aeq.wasm"
+      "hash": "sha256-5X6FWiZE4NSx4s9iNjfVim2lWQpcbVIsorx1vB6lyno=",
+      "url": "_framework/System.Runtime.InteropServices.JavaScript.f7txb1es0b.wasm"
     },
     {
       "hash": "sha256-lSKIMxbJLt9XDxsnNFdPBCj+p5Ki2ykJ7ZINV0dUYj4=",
@@ -150,7 +150,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.3ddyst6dmo.wasm"
     },
     {
-      "hash": "sha256-e6z7US3Udm2nRub2nseBfWfEP7ukjtA9wubVP+UaT8A=",
+      "hash": "sha256-UXNCE23nWFZb6D/FT2gR0M7lHZcHqOIaV+LzR0IGQeI=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -198,7 +198,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-57cQSc3I1fzQUG7qz7wqJruhChjhaWNDnvuSvlMvJ5w=",
+      "hash": "sha256-po+VNVyumIS9Ak+yE9LuVqH0XJobEXR/++QyVMLKLtM=",
       "url": "index.html"
     },
     {

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Marrari.Authenticator.Pwa",
   "resources": {
-    "hash": "sha256-mjwmgfAZ4c3N01Ex1+EDyyI4pdZmWCVUGrGwj2bQ0sA=",
+    "hash": "sha256-mItXsGCkYeaDAp0ySa7JLOe7etmstdhKS94KVmTIxvc=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.qs4vhyizb6.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.hswfy0pmu8.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -31,13 +31,13 @@
       "System.Net.Primitives.yjcmep7m7h.wasm": "System.Net.Primitives.wasm",
       "System.Private.Uri.f4flpvska4.wasm": "System.Private.Uri.wasm",
       "System.Runtime.InteropServices.JavaScript.f7txb1es0b.wasm": "System.Runtime.InteropServices.JavaScript.wasm",
-      "System.Runtime.u86vne8aeq.wasm": "System.Runtime.wasm",
+      "System.Runtime.9w4mmd5kaw.wasm": "System.Runtime.wasm",
       "System.Security.Cryptography.199b7ug6fi.wasm": "System.Security.Cryptography.wasm",
       "System.Text.Encodings.Web.08ymq1fvcr.wasm": "System.Text.Encodings.Web.wasm",
       "System.Text.Json.c189p5ree8.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.3ddyst6dmo.wasm": "System.Text.RegularExpressions.wasm",
-      "System.Private.CoreLib.o25vmsb2ip.wasm": "System.Private.CoreLib.wasm",
-      "Marrari.Authenticator.Pwa.9hfp4jf5ef.wasm": "Marrari.Authenticator.Pwa.wasm",
+      "System.Private.CoreLib.i68ad25sz9.wasm": "System.Private.CoreLib.wasm",
+      "Marrari.Authenticator.Pwa.8v6tja8o9b.wasm": "Marrari.Authenticator.Pwa.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.9ih887ebfz.js": "dotnet.native.js",
       "dotnet.native.21mns4qp4i.wasm": "dotnet.native.wasm",
@@ -62,7 +62,7 @@
     },
     "coreAssembly": {
       "System.Runtime.InteropServices.JavaScript.f7txb1es0b.wasm": "sha256-5X6FWiZE4NSx4s9iNjfVim2lWQpcbVIsorx1vB6lyno=",
-      "System.Private.CoreLib.o25vmsb2ip.wasm": "sha256-cCGMxygPuvYf6wvBFJan+rN2Kt0FpD5Uxofeeacb0ck="
+      "System.Private.CoreLib.i68ad25sz9.wasm": "sha256-FvOkEgCeM0f8lFxBDTHiy/Pf6/CmlQsGpkZTDqjAWjE="
     },
     "assembly": {
       "Microsoft.AspNetCore.Components.qs4vhyizb6.wasm": "sha256-CoMYZ8659Fh2qlPkYbSBqpKjE9JuV6f6zn9+o5Uvdcw=",
@@ -92,12 +92,12 @@
       "System.Net.Http.mr67hlrb8w.wasm": "sha256-/kwMO4+NkeqpSC9VFgLXfFBSBa1M4fQBRPS34ovRhHU=",
       "System.Net.Primitives.yjcmep7m7h.wasm": "sha256-DqsumNiS0cF1FXZ5sSRsGHgAG63fChKhelkEA9f6A50=",
       "System.Private.Uri.f4flpvska4.wasm": "sha256-z5RWeE/dZPsJMZvEKrf7l58tMRwDLNVjojX4XAj3Jns=",
-      "System.Runtime.u86vne8aeq.wasm": "sha256-ol+K6UI/EGufqHPF5aPeOrKisbTMTpgV1lZglDMoryA=",
+      "System.Runtime.9w4mmd5kaw.wasm": "sha256-STwQoDWvnXwKDY8WvUzbj8dG1Wn0ayf1UF0yREzkKzA=",
       "System.Security.Cryptography.199b7ug6fi.wasm": "sha256-lSKIMxbJLt9XDxsnNFdPBCj+p5Ki2ykJ7ZINV0dUYj4=",
       "System.Text.Encodings.Web.08ymq1fvcr.wasm": "sha256-QPumUm/+bRPi/T+QpPMfrlCeezAnzRk6CmD/iBskgiw=",
       "System.Text.Json.c189p5ree8.wasm": "sha256-EFJHoNty60SGh5DOmHJRyvuorRF3fN9GBe+VItNW/2U=",
       "System.Text.RegularExpressions.3ddyst6dmo.wasm": "sha256-J0h0LpWzXEYF0E+lUOiWbLF6UobUv3nu0XKBs3nMIoQ=",
-      "Marrari.Authenticator.Pwa.9hfp4jf5ef.wasm": "sha256-nfpF4rFZYuMSxsAsTW2I4y0IaSPW4TVRWadqLFNX+C4="
+      "Marrari.Authenticator.Pwa.8v6tja8o9b.wasm": "sha256-/Fz2v47Ww5r3jM0RkOxErb8tFN+SX3f9OXGdmpmrA3Y="
     }
   },
   "cacheBootResources": true,
